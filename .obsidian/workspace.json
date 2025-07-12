@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Play Store/4. Fontes.md",
+                "file": "2. Google Play Store/4. Fontes.md",
                 "mode": "preview",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Play Store/4. Fontes.md",
+                "file": "2. Google Play Store/4. Fontes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Play Store/4. Fontes.md",
+                "file": "2. Google Play Store/4. Fontes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Play Store/4. Fontes.md",
+                "file": "2. Google Play Store/4. Fontes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -168,14 +168,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "91a107167d2859b5",
+  "active": "8d173d3f19b3733f",
   "lastOpenFiles": [
-    "Google Play Store/3. Rastreio de informações que a Google Play Store consegue adquirir de você.md",
-    "Google Play Store/4. Fontes.md",
-    "Google Play Store/1. F-Droid e Aurora Store.md",
-    "Google Play Store/2. Licenças, projeto open-source e confiabilidade das lojas de aplicativos opene-source.md",
+    "2. Google Play Store/3. Rastreio de informações que a Google Play Store consegue adquirir de você.md",
+    "2. Google Play Store/4. Fontes.md",
+    "2. Google Play Store/1. F-Droid e Aurora Store.md",
+    "2. Google Play Store/2. Licenças, projeto open-source e confiabilidade das lojas de aplicativos opene-source.md",
     "1. Google Takeout/1. Backup de todas as suas configurações e arquivos da sua conta Google.md",
-    "Google Play Store",
+    "2. Google Play Store",
     "README.md",
     "1. Google Takeout",
     "Imagens"
