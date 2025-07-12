@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "3ce2e102d1660f92",
+    "type": "split",
+    "children": [
+      {
+        "id": "07d3f3c0f4be47b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91a107167d2859b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Play Store/4. Fontes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Fontes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cec87b3b916d878",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c535f50fee5e4d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d173d3f19b3733f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "da958bb165c51d8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "46fddb33eb7b5e83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c0e09ef6d45cd8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "66bd2ed492dc71ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a259957c11b25c68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Google Play Store/4. Fontes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 4. Fontes"
+            }
+          },
+          {
+            "id": "0051a5ad7dc98a9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Google Play Store/4. Fontes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 4. Fontes"
+            }
+          },
+          {
+            "id": "af6541fab85256dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4a1f6a89cb784f8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Google Play Store/4. Fontes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 4. Fontes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "91a107167d2859b5",
+  "lastOpenFiles": [
+    "Google Play Store/3. Rastreio de informações que a Google Play Store consegue adquirir de você.md",
+    "Google Play Store/4. Fontes.md",
+    "Google Play Store/1. F-Droid e Aurora Store.md",
+    "Google Play Store/2. Licenças, projeto open-source e confiabilidade das lojas de aplicativos opene-source.md",
+    "1. Google Takeout/1. Backup de todas as suas configurações e arquivos da sua conta Google.md",
+    "Google Play Store",
+    "README.md",
+    "1. Google Takeout",
+    "Imagens"
+  ]
+}
